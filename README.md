@@ -4,7 +4,7 @@ Codebase for the paper "Detection of Systematic Errors in Object Detectors via C
 
 # The method
 
-![BEV_to_EGO_diagram_portrait-2](https://github.com/valentyn1boreiko/BEV2EGO/images/BEV_to_EGO_diagram_portrait.png)
+![BEV_to_EGO_diagram_portrait-2](https://github.com/valentyn1boreiko/BEV2EGO/blob/main/images/BEV_to_EGO_diagram_portrait.png)
 
 
 # Code will be released soon
