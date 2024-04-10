@@ -11,7 +11,7 @@ This repository contains the codebase for our research on detecting systematic e
 Our approach allows for realistic generation of complete scenes with road-contingent control, mapping 2D BEV scene configurations to EGO perspectives. We propose a benchmark for controlled scene generation and perform a systematic analysis of multiple SOTA object detection models to identify their differences.
 
 <p align="center">
-  <img src="https://github.com/valentyn1boreiko/BEV2EGO/blob/main/images/BEV_to_EGO_diagram_portrait-2.png" alt="BEV_to_EGO_diagram_portrait">
+  <img src="https://github.com/valentyn1boreiko/BEV2EGO/blob/main/images/BEV_to_EGO_diagram_portrait.png" alt="BEV_to_EGO_diagram_portrait">
 </p>
 
 ## Installation
