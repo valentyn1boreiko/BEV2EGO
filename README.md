@@ -17,11 +17,3 @@ Our approach allows for realistic generation of complete scenes with road-contin
 ## Installation
 
 Code will be released soon. Instructions for setting up and running the code will be provided here.
-
-## Usage
-
-Examples of how to use the codebase will be added upon code release.
-
-## Data
-
-Details on the datasets used and how to access them will be provided here.
